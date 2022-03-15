@@ -1,2 +1,2 @@
 # Hackaton-GreenIT
-Développer l’outil proposé par l’INR
+le site comporte une interface qui montre  les indices de fragilité numérique territoire par territoire. 
